@@ -41,3 +41,23 @@ a,.footer,p{
     margin-top: 20%;
     height: 50px;
 }
+
+/* Styles for Portfolio */
+.portdiv{
+    position: relative;
+    margin-right: 80px;
+    margin-bottom: 50px;
+}
+.portp{
+    position:absolute;    
+    background-color:#4aaaa5;
+    text-align: center;
+    color:#ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 171px;
+    bottom: 0%; 
+    line-height: 1.5;
+    font-size: small;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
