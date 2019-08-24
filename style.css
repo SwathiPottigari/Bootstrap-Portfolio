@@ -1,0 +1,43 @@
+/* Styles used for common elemnts */
+html,body{
+    background-image: url(images/white-waves.png);
+    height:auto;
+}
+.mainheading{
+    background-color:#ffffff;
+    border-bottom: 2px solid #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    width: 960px;
+    background-color: #ffffff;
+}
+.maincontent{
+    min-height: 100%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    min-height: calc(100vh - 70px);
+}
+#name{
+    color: white;
+    background-color: #4aaaa5;
+}
+a,.footer,p{
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+#subheading
+{
+    color: #4aaaa5;
+    border-bottom: 2px solid#dddddd;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 10px;
+}
+.footer{
+    background-color: #666666;
+    color:white;
+    font-size: xx-small;
+    border-top: 8px solid #4aaaa5;
+    margin-top: 20%;
+    height: 50px;
+}
